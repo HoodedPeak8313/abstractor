@@ -21,19 +21,19 @@
 
   
 
-*Press **=** to zoom in*
-*Press **-** to zoom out*
+> *Press **=** to zoom in*
+> *Press **-** to zoom out*
+>
+> *Use the **arrow keys** to move around the screen*
+> *Press the letter **U** to move faster*
+> *Press the letter **D** to move slower*
+> *Press the letter **R** to reset the move speed*
+>
+> *Press the number **0** to reset the zoom and position*
+> *Press the letter **C** to reset the position*
+> *Press the letter **O** to reset the zoom*
 
-*Use the **arrow keys** to move around the screen*
-*Press the letter **U** to move faster*
-*Press the letter **D** to move slower*
-*Press the letter **R** to reset the move speed*
-
-*Press the number **0** to reset the zoom and position*
-*Press the letter **C** to reset the position*
-*Press the letter **O** to reset the zoom*
-
-*Press the letter **S** to save a snapshot of the current screen*
+> *Press the letter **S** to save a snapshot of the current screen*
 
   
 
@@ -41,15 +41,15 @@
 
   
 
-*The keys **=** and **-** just make sense to me for zooming because you are going in and out*
-
-*The **arrow keys** point in the direction of movement*
-
-*The letter key **U** stands for "up" because you are making the rate of movement go up*
-*The letter key **D** stands for "down" because you are making the rate of movement go down*
-*The letter key **R** stands for "reset" because you are resetting the movement speed*
-
-*The number key **0** reminds me of the phrase "zeroing in" which seemed fitting for the key's function*
+> *The keys **=** and **-** just make sense to me for zooming because you are going in and out*
+>
+> *The **arrow keys** point in the direction of movement*
+>
+> *The letter key **U** stands for "up" because you are making the rate of movement go up*
+> *The letter key **D** stands for "down" because you are making the rate of movement go down*
+> *The letter key **R** stands for "reset" because you are resetting the movement speed*
+>
+> *The number key **0** reminds me of the phrase "zeroing in" which seemed fitting for the key's function*
 *The letter key **C** stands for "center" because you are resetting the position to the center*
 *The letter key **O** stands for "out" because you are zooming out, which does not fit in all cases considering you may already be zoomed out*
 
