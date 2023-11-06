@@ -5,7 +5,11 @@
 
 
 
+
+
 **Open a terminal/command prompt window in the file director of *requirements.txt* and do "*pip install -r requirements.txt*" without quotes.**
+
+
 
 
 
