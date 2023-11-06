@@ -1,0 +1,4 @@
+pygame
+keyboard
+PyOpenGL
+PyOpenGL_accelerate
