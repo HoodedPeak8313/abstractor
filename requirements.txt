@@ -1,3 +1,4 @@
+tk
 pygame
 keyboard
 PyOpenGL
