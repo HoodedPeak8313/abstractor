@@ -11,6 +11,11 @@
 
 ### **-- How to use --**
 
+> The **.SNAPSHOTS** folder is there for you to save any cool drawings you create
+> The **.PRESETS** folder has some saved drawings that I thought would be interesting to share.
+> You can also save snapshots from other people in either folder.
+>
+> Of course, you can save your snapshots wherever you would like, I just added these folders for convenience.
 
 > There are four values that you can fill in:
 >
