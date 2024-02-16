@@ -55,8 +55,7 @@
 > *Press the letter **C** to reset the position.*
 > 
 > *Press the letter **O** to reset the zoom.*
->
->          
+
 > *Press the letter **S** to save a snapshot of the current screen.*
 
   
