@@ -40,7 +40,9 @@
   
 
 > *Press **=** to zoom in.*
+> 
 > *Press **-** to zoom out.*
+> 
 > *Press the letter **O** to reset the zoom.*
 
 
