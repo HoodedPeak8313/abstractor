@@ -1,5 +1,6 @@
 ## NOTE:
 **This project is unfinished and there are some bugs**
+
 *Saving and opening snapshots has some bugs*
 *Length is technically working how I wrote it but is not how I intended it to work*
 
