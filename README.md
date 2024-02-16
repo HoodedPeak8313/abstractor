@@ -27,7 +27,7 @@
 >
 > - Length: I find it best to leave this blank so the default value 0.1 gets used. This value takes a floating point number, and no commas will be used. Example input: 2.4 ***OR* an integer** 1
 > - Depth: I tend to use 10,000 to 20,000 but depending on your machine this may cause lag. The default depth is 3,000. This value takes an integer, meaning no decimals, and no commas will be used. Example input: 5000
-> - Angles: This is the coolest and most varying part. It takes values anywhere from 0-360. Going past 360 causes it to loop back to 1. This takes many floating point numbers separated by commas. Example input: 30,40,60,23.333,9
+> - Angles: This is the coolest and most varying part. It takes values anywhere from 0-360. Going past 360 causes it to loop back to 1 (360 also loops back to 0 but its nicer to say 0-360 than 0-359). This takes many floating point numbers separated by commas. Example input: 30,40,60,23.333,9
 > - Zoom: I find it best to leave this blank because you can use the zoom function to zoom in to somewhere specific. Nonetheless, this value takes a floating point number. Example input: 3.5
 >
 > Click the "Create" button to create your drawing.
