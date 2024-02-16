@@ -68,8 +68,8 @@
 > *The letter key **R** stands for "reset" because you are resetting the movement speed.*
 >
 > *The number key **0** reminds me of the phrase "zeroing in" which seemed fitting for the key's function.*
-*The letter key **C** stands for "center" because you are resetting the position to the center.*
+> *The letter key **C** stands for "center" because you are resetting the position to the center.*
 > 
-*The letter key **O** stands for "out" because you are zooming out, which does not fit in all cases considering you may already be zoomed out.*
+> *The letter key **O** stands for "out" because you are zooming out, which does not fit in all cases considering you may already be zoomed out.*
 >
-*The letter key **S** stands for "save" because it saves a snapshot of the current screen*
+> *The letter key **S** stands for "save" because it saves a snapshot of the current screen*
