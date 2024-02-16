@@ -5,6 +5,8 @@
 
 *Length is technically working how I wrote it but is not how I intended it to work*
 
+**Please report bugs to my email *gavinjmcafee@gmail.com***
+
 # Some quick tips:
 
 ### REQUIREMENTS:
